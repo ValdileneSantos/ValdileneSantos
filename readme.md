@@ -1,5 +1,5 @@
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4682B4&textBg=false&fontColor=ffffff&fontSize=50&fontAlign=30&stroke=4682B5"
+  src="https://capsule-render.vercel.app/api?type=waving&height=80&color=4682B4&textBg=false&fontColor=ffffff&fontSize=50&fontAlign=30&stroke=4682B5"
 />
 
 <p align="left">
@@ -112,7 +112,7 @@
     src="https://github-readme-streak-stats.herokuapp.com?user=ValdileneSantos&theme=algolia&card_width=880"
   />
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4682B4&textBg=false&fontColor=ffffff&fontSize=50&fontAlign=30&stroke=4682B5&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=80&color=4682B4&textBg=false&fontColor=ffffff&fontSize=50&fontAlign=30&stroke=4682B5&section=footer"
   />
 </p>
 
