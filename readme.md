@@ -1,5 +1,6 @@
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&height=80&color=4682B4&textBg=false&fontColor=ffffff&fontSize=50&fontAlign=30&stroke=4682B5"
+  width="100%"
 />
 
 <p align="left">
@@ -95,13 +96,13 @@
   <img 
     height="150" 
     alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api/?username=ValdileneSantos&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka" 
+    src="https://github-readme-stats.vercel.app/api/?username=ValdileneSantos&show_icons=true&count_private=true&rank_icon=github&font=Iosevka" 
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     height="150" 
     alt="Top Language" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdileneSantos&layout=compact&font=Iosevka&langs_count=16&theme=algolia" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdileneSantos&layout=compact&font=Iosevka&langs_count=16" 
   />
 </p>
 
@@ -109,10 +110,11 @@
   <img
     height="154"
     alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=ValdileneSantos&theme=algolia&card_width=880"
+    src="https://github-readme-streak-stats.herokuapp.com?user=ValdileneSantos&card_width=880"
   />
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=80&color=4682B4&textBg=false&fontColor=ffffff&fontSize=50&fontAlign=30&stroke=4682B5&section=footer"
+     style="width: 100%;"
   />
 </p>
 
