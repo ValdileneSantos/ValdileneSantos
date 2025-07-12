@@ -94,14 +94,15 @@
 
 <p align="center">
   <img 
-    height="150" 
+    height="150"
+     width="390"
     alt="GitHub Stats" 
     src="https://github-readme-stats.vercel.app/api/?username=ValdileneSantos&show_icons=true&count_private=true&rank_icon=github&font=Iosevka" 
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     height="300"
-    width="400"
+    width="390"
     alt="Top Language" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdileneSantos&layout=compact&font=Iosevka&langs_count=16" 
   />
